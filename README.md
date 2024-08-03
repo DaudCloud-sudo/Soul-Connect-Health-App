@@ -29,7 +29,7 @@ Automated CI/CD pipeline and AI Bible Verses Recommendation System on AWS for So
 
 ### Signup Page
 
-We are currently working on a signup page to allow users to create personalized accounts. This feature will enable:
+I am currently working on a signup page to allow users to create personalized accounts. This feature will enable:
 
 - **User Authentication:** Secure login and registration using AWS Cognito or a similar service.
 - **Personalized Recommendations:** Tailored Bible verse suggestions and spiritual guidance based on user preferences and activity.
@@ -45,10 +45,10 @@ The AI Bot will offer:
 
 ### Personalized Counseling
 
-We aim to introduce:
+I aim to introduce:
 
 - **Customized Counseling Sessions:** Tailored to user needs and preferences.
-- **Integration with AI Models:** Leveraging deep learning for enhanced personalization.
+- **Integration with AI Models:** Leveraging deep learning and NLP for enhanced personalization.
 
 ## Technologies Used
 
@@ -99,4 +99,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Contact
 
-For any questions or additional information, please reach out via [email](mailto:your-email@example.com) or open an issue in the repository.
+For any questions or additional information, please reach out via [email](mailto:engr.s.daud@gmail.com) or open an issue in the repository.
